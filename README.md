@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @Pejordao
-- 👀 Estou interessado em desenvolver uma ferramenta o dietbo
-aj- 🌱 Atualmente estou aprendendo...html,css,Java script e pretendo aapreender react native 
-- 💞️ Estou procurando colaborar em ...qualquer projeto que me ajude a eexercitar as mminhas linguagens de eestudos aatuais 
+- 👀 Estou interessado em desenvolver uma ferramenta etilo o diet box 
+- 🌱 Atualmente estou aprendendo...html,css,Java script e pretendo aprender react native. 
+- 💞️ Estou procurando colaborar em ...qualquer projeto que me ajude a eexercitar as minhas linguagens de estudos atuais 
 - 📫 Como chegar até mim...
 
 <!---
